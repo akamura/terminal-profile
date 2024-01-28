@@ -1,0 +1,15 @@
+[/]
+audible-bell=false
+background-color='rgb(31,31,31)'
+bold-is-bright=true
+cell-height-scale=1.0
+cell-width-scale=1.0
+foreground-color='rgb(255,255,255)'
+highlight-colors-set=false
+palette=['rgb(255,255,255)', 'rgb(217,7,24)', 'rgb(135,193,10)', 'rgb(213,200,9)', 'rgb(83,105,225)', 'rgb(242,53,192)', 'rgb(105,204,215)', 'rgb(226,152,109)', 'rgb(167,89,20)', 'rgb(167,14,14)', 'rgb(18,166,40)', 'rgb(242,203,5)', 'rgb(42,123,222)', 'rgb(242,53,192)', 'rgb(29,203,242)', 'rgb(89,89,89)']
+scroll-on-output=false
+scrollback-unlimited=true
+scrollbar-policy='always'
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='akamura'
